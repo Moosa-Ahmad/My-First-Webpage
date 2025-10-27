@@ -1,0 +1,48 @@
+body{
+    background-color: #030f11;
+    font-family: 'trebuchet MS,sans serif';
+    margin: 0;
+    padding: 0;
+}
+#container{
+    width: 80%;
+    margin: 10px;
+    border: 3px solid #8b22a8;
+    background-color: #fcfcfc;
+    padding: 100px;
+    box-shadow: 0 0 10px #cd481b;
+}
+#header{
+    text-align: center;
+    border-bottom: 10px solid #77c9d4;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+.subtitle{
+    color: #5c9ea4;
+    font-style: italic;
+}
+#sidebox{
+   width: 25%;
+   padding: 15px;
+   border-bottom: 5px solid rgba(190, 0, 190, 0.8);
+    background-color: #77c9d4;
+}
+.list{
+    color: #fcfcfc;
+}
+#inaside{
+color: #fcfcfc;
+
+}
+.post{
+background-color: #9be1e7;
+margin: 20px;
+border: 2px solid #0b6068;
+}
+section{
+    display: flex;
+}
+.format{
+    color: #0b6068;
+}
